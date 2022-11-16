@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css","webpack://src/components/Sum.css"],"names":[],"mappings":"AAAA,OACE,YACF,CCFA,YACE,iDAAqD,CACrD,aAAsB,CACtB,eACF","file":"main.afb59592.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".textFormat {\n  font-family: Georgia, \"Times New Roman\", Times, serif;\n  color: rgb(50, 50, 50);\n  font-weight: bold;\n}\n"]}
